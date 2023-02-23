@@ -1,0 +1,92 @@
+Bauditorium
+오전 10시 입학식을 앞두고 신입생들과 학부모들로 북적거린다.
+Apeople
+(웅성 웅성)
+Amc
+곧 있으면 입학식을 시작하겠습니다.
+Amc
+신입생 여러분은 모두 자리에 앉아주십시오.
+Abear_normal
+생각보다 더 긴장 돼..
+Abear_normal
+입학식이 시작할 것 같으니 일단 남은 자리에 앉자.
+Anarration
+곧 바로 입학식이 시작되었다.
+Anarration
+국민의례, 찬송가 합창이 이어졌다.
+Abear_normal
+기독교 학교라서 입학식에도 찬송가를 부르는구나.
+Abear_sad
+슬슬 배가 고프네.
+Abear_sad
+빨리 입학식 끝나고 맛있는 점심 먹고 싶다.
+Anarration
+이어서 기도까지 마쳤다.
+Amc
+다음으로 총장님의 말씀이 있겠습니다.
+Apresident
+안녕하세요 신입생 여러분.
+Apresident
+힘든 입시 생활을 마친 후 오늘부로 ㅁㅁ의 공동체의 일원이 된 것을 축하합니다. 
+Apresident
+(중략)
+Apresident
+대학은 일종의 완충지대(buffer zone)입니다.
+Apresident
+그렇기 때문에, 입학생 여러분 실수를 해도 괜찮습니다.
+Apresident
+여러분이 도전하고 경험하는 것이 여러분의 매우 소중한 자산이 될 것입니다.
+Abear_happy
+적당히 감동적인 연설이었다.
+Abear_happy
+이제 입학식은 끝난걸까?
+Anarration
+입학식이 끝난줄 알았던 그 때 갑자기 암전이 되었다.
+Abear_normal
+앗? 뭐지??
+Apeople
+(웅성 웅성) 
+Apeople
+뭐지? 뭐야!
+Apeople
+(웅성 웅성)
+Apeople
+끝난거 아니었어?
+Anarration
+모두가 당황하여 웅성거릴 때 무대에 화려한 조명이 켜졌다.
+Abear_normal
+불이 켜졌다..! 앗 무대에 누군가 있어.
+Anarration
+무대 위에는 6명의 중년 남성들이 서있었다.
+Abear_normal
+누구지? 엄청 화려한 옷을 입고 있어.
+Amc
+마지막으로 저희 ㅇㅇ여대의 자랑!
+Amc
+총 6명의 교수님들로 이루어진!
+Amc
+남성 중찬단 그룹 ㅁㅁ의 무대가 있겠습니다!!
+Aprofessor1
+R U Ready?
+Apeople
+와아아아아아!!!!!!!!!!!!!!!!!!! 대박!!!!!!!!!
+Abear_happy
+이 학교에 오기를 잘한 것 같다.
+Anarration
+입학식이 끝난 후 기념품도 받았다.
+Abear_happy
+우왓! 인형 너무 귀엽다.
+Anarration
+이제 학교 앞에서 밥을 먹고 집으로 돌아가자.
+Abear_happy
+무엇을 먹을까?
+Abear_happy
+Sselect_food
+아~맛있었다
+Anarration
+나는 밥을 맛있게 먹고 집으로 돌아왔다.
+Abear_normal
+조금은 피곤하지만 멋진 무대도 보고 맛있는 밥도 먹고 재밌는 시간이었어.
+Abear_happy
+이제 진짜 개강하기 까지 얼마 남지 않은게 실감이 난다.
+Nnext_scene
